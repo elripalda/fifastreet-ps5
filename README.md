@@ -2,6 +2,8 @@
 
 **FIFA Street (2012, Xbox 360) running natively on a jailbroken PS5**, at up to 1440p and 60 fps.
 
+[![Get it on RecompStore](https://recompstore.com/assets/press/badge-dark.svg)](https://recompstore.com/game/PPSA92012)
+
 > ### Built on ReStreet by SamuelitoDaVila
 > This port is based on **[ReStreet](https://github.com/samuelit0davila/fifa-street-pc-port)**, SamuelitoDaVila's recompilation of FIFA Street for PC, and its game fixes. Their work is the backbone of this project: this release takes it to the PS5. Go check out and support the original project.
 
